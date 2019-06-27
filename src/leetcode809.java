@@ -55,5 +55,3 @@ public class leetcode809 {
         return charList;
     }
 }
-"dddiiiinnssssssoooo"
-        ["dinnssoo","ddinso","ddiinnso","ddiinnssoo","ddiinso","dinsoo","ddiinsso","dinssoo","dinso"]
