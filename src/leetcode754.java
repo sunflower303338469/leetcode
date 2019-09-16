@@ -1,5 +1,3 @@
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
-
 /**
  * Created by xuanmao on 2019/1/27.
  */
