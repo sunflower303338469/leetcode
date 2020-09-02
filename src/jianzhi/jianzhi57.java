@@ -1,4 +1,4 @@
-package interviewQuestion;
+package jianzhi;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by xuanmao on 2020/3/6.
  */
-public class question57 {
+public class jianzhi57 {
     public int[][] findContinuousSequence(int target) {
         int sum = 0;
         int start = 1;
